@@ -12,8 +12,7 @@ categories = ["network-programming"]
 [badges]
 coveralls = { repository = "wiomoc/mosquitto-jwt-auth" }
 
-[lib]
-crate-type=["dylib"]
+
 
 [dependencies]
 serde_derive = "1.0.100"
