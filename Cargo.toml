@@ -1,5 +1,3 @@
-cargo-features = ["edition2021"]
-
 [package]
 name = "mosquitto-jwt-auth"
 description = "Plugin for Mosquitto MQTT broker, which enables authentication and authorisation via JWT over password."
